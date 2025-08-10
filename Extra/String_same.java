@@ -8,6 +8,7 @@ public class String_same {
 
         System.out.println("Enter a string in the form of ['(',')'] :");
         String a = sc.next();
+        sc.close();
     }
     // public static boolean S1 (String a){
     //     if(a.length()%2==1){
